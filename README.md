@@ -1,5 +1,5 @@
 # COVIDWebScraper
-������������¹���� C# ����Ѻ��÷� Web Scrapper ���ʹ֧�����Ũҡ˹����� https://www.worldometers.info/coronavirus/
+เป็นโปรแกรมที่เขียนด้วยภาาา C# สำหรับทำ Web Scrapper เพื่อดึงข้อมุลไวรัสโคโรน่าจากหน้าเว็บ https://www.worldometers.info/coronavirus/
 
 ![alt text](https://github.com/CakeNuthep/COVIDWebScraper/blob/master/img/Application.PNG)
 
