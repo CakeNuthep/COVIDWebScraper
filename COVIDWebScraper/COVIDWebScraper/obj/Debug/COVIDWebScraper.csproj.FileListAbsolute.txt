@@ -1,0 +1,13 @@
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\COVIDWebScraper.exe.config
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\COVIDWebScraper.exe
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\COVIDWebScraper.pdb
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\AngleSharp.dll
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\bin\Debug\AngleSharp.xml
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.csprojAssemblyReference.cache
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.Form1.resources
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.Properties.Resources.resources
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.csproj.GenerateResource.cache
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.csproj.CopyComplete
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.exe
+D:\CovidWebScraper\COVIDWebScraper\COVIDWebScraper\obj\Debug\COVIDWebScraper.pdb
